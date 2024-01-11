@@ -1,0 +1,9 @@
+{
+    "clearMocks": true,
+    "moduleNameMapper": {
+        "@code/(.*)": [
+            "<rootDir>/src/LTP-1/$1"
+        ]
+    },
+    "preset": "ts-jest"
+}
